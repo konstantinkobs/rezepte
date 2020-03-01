@@ -3,6 +3,7 @@ description: Eine Sammlung von Rezepten, damit ich sie immer zur Verfügung habe
 collections:
   - rezepte:
       output: true
+      permalink: /r/:name
 defaults:
   -
     scope:
