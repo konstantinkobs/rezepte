@@ -1,2 +1,11 @@
 title: Rezepte
 description: Eine Sammlung von Rezepten, damit ich sie immer zur Verfügung habe.
+collections:
+  - rezepte:
+      output: true
+defaults:
+  -
+    scope:
+      path: "_rezepte"
+    values:
+      layout: "rezept"

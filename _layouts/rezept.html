@@ -1,0 +1,13 @@
+{% include header.html %}
+
+    {{ page.title }}
+
+    <ul>
+    {% for zutat in page.zutaten %}
+        <li>{{ zutat }}</li>
+    {% endfor %}
+    </ul>
+
+    {{ content }}
+
+{% include footer.html %}
