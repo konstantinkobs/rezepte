@@ -4,9 +4,51 @@
     box-sizing: border-box;
 }
 
+html,
+body {
+    font-family: 'Playfair Display', serif;
+    font-size: 110%;
+}
+
 .container {
     width: 100%;
-    max-width: 800px;
+    max-width: 1000px;
 
     margin: 0 auto;
+
+    display: grid;
+    grid-template-columns: auto 300px;
+    grid-template-rows: auto;
+    grid-template-areas: "header header"
+                         "anleitung zutaten";
+    gap: 10px;
+}
+
+.header {
+    font-family: 'Sacramento', serif;
+    text-align: center;
+    font-size: 250%;
+    grid-area: header;
+}
+
+.zutaten {
+    grid-area: zutaten;
+}
+
+.zutaten table {
+    width: 100%;
+}
+
+.zutaten table td {
+    vertical-align: top;
+    padding: 3px;
+}
+
+.zutaten .menge {
+    font-weight: bold;
+    text-align: right;
+}
+
+.anleitung {
+    grid-area: anleitung;
 }

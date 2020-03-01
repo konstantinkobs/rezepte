@@ -1,13 +1,24 @@
 {% include header.html %}
 
-    {{ page.title }}
+<div class="header">
+    <h1>{{ page.title }}</h1>
+</div>
 
-    <ul>
+<div class="zutaten">
+    <table>
     {% for zutat in page.zutaten %}
-        <li>{{ zutat }}</li>
+        <tr>
+            {% assign parts = zutat | split: "|" %}
+            <td class="menge">{{ parts[0] }}</td>
+            <td class="zutat">{{ parts[1] }}</td>
+        </tr>
     {% endfor %}
-    </ul>
+    </table>
+</div>
 
+<div class="anleitung">
+    
     {{ content }}
+</div>
 
 {% include footer.html %}
