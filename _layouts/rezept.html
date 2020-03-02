@@ -1,24 +1,26 @@
 {% include header.html %}
 
-<div class="header">
-    <h1>{{ page.title }}</h1>
-</div>
-
-<div class="zutaten">
-    <table>
-    {% for zutat in page.zutaten %}
-        <tr>
-            {% assign parts = zutat | split: "|" %}
-            <td class="menge">{{ parts[0] }}</td>
-            <td class="zutat">{{ parts[1] }}</td>
-        </tr>
-    {% endfor %}
-    </table>
-</div>
-
-<div class="anleitung">
+<div class="container-rezept">
+    <div class="header">
+        <h1>{{ page.title }}</h1>
+    </div>
     
-    {{ content }}
+    <div class="zutaten">
+        <table>
+        {% for zutat in page.zutaten %}
+            <tr>
+                {% assign parts = zutat | split: "|" %}
+                <td class="menge">{{ parts[0] }}</td>
+                <td class="zutat">{{ parts[1] }}</td>
+            </tr>
+        {% endfor %}
+        </table>
+    </div>
+    
+    <div class="anleitung">
+        
+        {{ content }}
+    </div>
 </div>
 
 {% include footer.html %}

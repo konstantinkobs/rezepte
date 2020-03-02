@@ -15,12 +15,14 @@ body {
     max-width: 1000px;
 
     margin: 0 auto;
+}
 
+.container-rezept {
     display: grid;
     grid-template-columns: auto 300px;
     grid-template-rows: auto;
     grid-template-areas: "header header"
-                         "anleitung zutaten";
+    "anleitung zutaten";
     gap: 10px;
 }
 
