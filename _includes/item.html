@@ -1,0 +1,12 @@
+{% assign rezept = include.rezept %}
+<div class="item">
+    <a href="{{ rezept.url | relative_url }}">
+        <div class="line">
+            {{ rezept.title }}
+            
+            {% for tag in rezept.tags %}
+            {{ tag }}
+            {% endfor %}
+        </div>
+    </a>
+</div>

@@ -4,7 +4,7 @@ tags: [Backen, Brot]
 quelle: https://www.chefkoch.de/rezepte/1344331239198800/Saftiges-Vollkornbrot.html
 zutaten:
     - 500 g | Dinkelvollkornmehl
-    - 150 g | Kerne, gemischte nach Wahl (z.B. Kürbiskerne, Leinsamen, Sonnenblumenkerne etc.)
+    - 150 g | Kerne (z.B. Kürbiskerne oder Sonnenblumenkerne)
     - 1/2 Liter | Wasser
     - 1 Würfel | Hefe
     - 2 TL | Salz

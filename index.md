@@ -3,8 +3,12 @@ title: "Rezepte"
 layout: default
 ---
 
-# Rezepte Laga
+<div class="header title">
+    <h1>Rezepte Laga</h1>
+</div>
 
-{% for rezept in site.rezepte %}
-<h2><a href="{{ rezept.url | relative_url }}">{{ rezept.title }}</a></h2>
+{% assign rezepte = site.rezepte | sort: "title" %}
+
+{% for rezept in rezepte %}
+    {% include item.html rezept=rezept %}
 {% endfor %}

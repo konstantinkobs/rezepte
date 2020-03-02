@@ -10,9 +10,11 @@ zutaten:
     - 1 Pck. | Vanillinzucker
     - 1 Tasse | Pflanzenöl
     - 1 Prise | Salz
-    - 1 Tasse | Orangensaft oder Limonade
+    - 1 Tasse | Orangensaft oder Fanta
 ---
 
 Alle Zutaten miteinander verrühren.
 
-Den Teig in eine Backform füllen und bei 180 Grad im Backofen ca.40 - 45 Minuten backen.
+Fanta statt Orangensaft macht den Teig nochmal etwas lockerer.
+
+Den Teig in eine **Gugelhupfform** füllen (Kastenform ist für die Menge zu klein!) und bei 180 Grad im Backofen ca. 40-45 Minuten backen.
