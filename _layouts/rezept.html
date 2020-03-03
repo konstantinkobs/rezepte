@@ -9,7 +9,7 @@
         <table>
         {% for zutat in page.zutaten %}
             <tr>
-                {% assign parts = zutat | split: "|" %}
+                {% assign parts = zutat | split: "  " %}
                 <td class="menge">{{ parts[0] }}</td>
                 <td class="zutat">{{ parts[1] }}</td>
             </tr>

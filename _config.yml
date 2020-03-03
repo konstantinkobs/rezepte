@@ -1,6 +1,7 @@
 title: Rezepte
 description: Eine Sammlung von Rezepten, damit ich sie immer zur Verfügung habe.
 baseurl: ""
+exclude: ["excluded"]
 collections:
   rezepte:
     output: true
