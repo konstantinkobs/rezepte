@@ -23,7 +23,8 @@ body {
     grid-template-columns: auto 300px;
     grid-template-rows: auto;
     grid-template-areas: "header header"
-    "anleitung zutaten";
+                         "anleitung zutaten"
+                         "footer footer";
     gap: 10px;
 }
 
@@ -57,6 +58,20 @@ body {
 
 .anleitung {
     grid-area: anleitung;
+}
+
+.footer {
+    grid-area: footer;
+
+    padding: 50px 10px;
+
+    text-align: center;
+}
+
+.quelle {
+    text-decoration: none;
+    color: #ccc;
+    font-size: 75%;
 }
 
 .item {

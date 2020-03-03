@@ -18,8 +18,13 @@
     </div>
     
     <div class="anleitung">
-        
         {{ content }}
+    </div>
+
+    <div class="footer">
+        {% if page.link %}
+            <a class="quelle" href="{{ page.link }}">Link zum Ursprungsrezept</a>
+        {% endif %}
     </div>
 </div>
 

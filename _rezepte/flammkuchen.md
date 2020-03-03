@@ -1,7 +1,7 @@
 ---
-title: Flammkuchen
+name: Flammkuchen
 tags: [Backen, Hauptspeise]
-quelle: https://www.chefkoch.de/rezepte/1107291216818673/Schneller-Flammkuchen.html
+link: https://www.chefkoch.de/rezepte/1107291216818673/Schneller-Flammkuchen.html
 zutaten:
     - 2 EL  Öl
     - 125 ml  Wasser

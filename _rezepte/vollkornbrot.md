@@ -1,7 +1,7 @@
 ---
-title: Vollkornbrot
+name: Vollkornbrot
 tags: [Backen, Brot]
-quelle: https://www.chefkoch.de/rezepte/1344331239198800/Saftiges-Vollkornbrot.html
+link: https://www.chefkoch.de/rezepte/1344331239198800/Saftiges-Vollkornbrot.html
 zutaten:
     - 500 g  Dinkelvollkornmehl
     - 150 g  Kerne (z.B. Kürbiskerne oder Sonnenblumenkerne)

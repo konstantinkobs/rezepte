@@ -1,7 +1,7 @@
 ---
-title: Orangensaftkuchen
+name: Orangensaftkuchen
 tags: [Backen, Kuchen]
-quelle: https://www.chefkoch.de/rezepte/2743991426441142/Orangensaft-Kuchen.html
+link: https://www.chefkoch.de/rezepte/2743991426441142/Orangensaft-Kuchen.html
 zutaten:
     - 3 Tassen  Mehl
     - 2 Tassen  Zucker
