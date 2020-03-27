@@ -1,7 +1,7 @@
 ---
-name: Ciabatta
-tags: [Backen, Brot]
-link: https://www.chefkoch.de/rezepte/731041175790782/Einfaches-Ciabatta.html
+name: Rucola Butter
+tags: [Aufstrich, Dip, Brot]
+link: 
 zutaten:
     - 1 Pck.  Hefe (Trockenhefe)
     - 500 g  Mehl
