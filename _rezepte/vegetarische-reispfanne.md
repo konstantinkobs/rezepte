@@ -1,18 +1,21 @@
 ---
+title: Vegetarische Reispfanne
+tags:
+- Kochen
+- Hauptspeise
 name: Vegetarische Reispfanne
-tags: [Kochen, Hauptspeise]
 link: https://www.chefkoch.de/rezepte/508081146067703/Vegetarische-Reispfanne.html
 zutaten:
-    - 1 Tasse  Basmatireis
-    - 2 Tassen  Gemüsebrühe
-    - 2 kleine  Zwiebeln
-    - 250 g  frische Champignons
-    - 1  rote Paprikaschoten
-    - 2  Tomaten
-    - 100 g  Feta-Käse
-    - "  Curry"
-    - "  Salz"
-    - 3 TL  Olivenöl
+- 1 Tasse  Basmatireis
+- 2 Tassen  Gemüsebrühe
+- 2 kleine  Zwiebeln
+- 250 g  frische Champignons
+- 1  rote Paprikaschoten
+- 2  Tomaten
+- 100 g  Feta-Käse
+- "  Curry"
+- "  Salz"
+- 3 TL  Olivenöl
 ---
 
 Den Basmatireis in der Gemüsebrühe gar kochen. 

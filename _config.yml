@@ -1,13 +1,23 @@
+---
 title: Rezepte
-description: Eine Sammlung von Rezepten, damit ich sie immer zur Verfügung habe.
-baseurl: ""
-exclude: ["excluded"]
+timezone: UTC
 collections:
-  rezepte:
+  posts:
+    title: Posts
     output: true
-    permalink: /r/:name
+  rezepte:
+    title: Rezepte
+    output: true
+    permalink: "/r/:name"
+  uploads:
+    title: Uploads
+    output: true
 defaults:
-  - scope:
-      path: "_rezepte"
-    values:
-      layout: "rezept"
+- scope:
+    path: _rezepte
+  values:
+    layout: rezept
+description: Eine Sammlung von Rezepten, damit ich sie immer zur Verfügung habe.
+baseurl: ''
+exclude:
+- excluded

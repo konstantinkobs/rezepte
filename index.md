@@ -1,5 +1,5 @@
 ---
-title: "Rezepte"
+title: Rezepte
 layout: default
 ---
 

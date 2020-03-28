@@ -1,22 +1,25 @@
 ---
+title: Flammkuchen
+tags:
+- Backen
+- Hauptspeise
 name: Flammkuchen
-tags: [Backen, Hauptspeise]
 link: https://www.chefkoch.de/rezepte/1107291216818673/Schneller-Flammkuchen.html
 zutaten:
-    - 2 EL  Öl
-    - 125 ml  Wasser
-    - 1 Prise  Salz
-    - 250 g  Mehl
+- 2 EL  Öl
+- 125 ml  Wasser
+- 1 Prise  Salz
+- 250 g  Mehl
 weitere_zutaten:
-    - name: Belag
-      zutaten:
-        - 2  Zwiebeln, in halbe Ringe dünn geschnitten
-        - 100 g  Speck, gewürfelt
-        - 1 Becher  Crème double
-        - 1 Becher  Schmand, 24 % Fett
-        - "  Pfeffer"
-        - "  Salz oder Fondor"
-        - "  Schnittlauchröllchen"
+- name: Belag
+  zutaten:
+  - 2  Zwiebeln, in halbe Ringe dünn geschnitten
+  - 100 g  Speck, gewürfelt
+  - 1 Becher  Crème double
+  - 1 Becher  Schmand, 24 % Fett
+  - "  Pfeffer"
+  - "  Salz oder Fondor"
+  - "  Schnittlauchröllchen"
 ---
 
 Backofen auf 250 °C vorheizen.
