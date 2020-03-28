@@ -3,7 +3,7 @@ name: Ciabatta
 tags: [Backen, Brot]
 link: https://www.chefkoch.de/rezepte/731041175790782/Einfaches-Ciabatta.html
 zutaten:
-    - 1 Pck.  Hefe (Trockenhefe)
+    - 1 Päckchen  Hefe (Trockenhefe)
     - 500 g  Mehl
     - 1 TL  Zucker
     - 2 TL  Salz

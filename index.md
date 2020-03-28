@@ -3,13 +3,8 @@ title: "Rezepte"
 layout: default
 ---
 
-<div class="header title">
-    <h1>Rezepte Laga</h1>
-
-    {% for tag in site.tags %}
-        {{ tag }}
-    {% endfor %}
-
+<div class="header">
+    <h1 class="title">Rezepte Laga</h1>
 </div>
 
 {% assign rezepte = site.rezepte | sort: "title" %}

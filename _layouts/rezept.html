@@ -1,8 +1,12 @@
 {% include header.html %}
 
 <div class="container-rezept">
-    <div class="header title">
-        <h1>{{ page.name }}</h1>
+    <div class="header">
+        <h1 class="title">{{ page.name }}</h1>
+
+        <div>
+            <span class="taglist">{{ page.tags | join: ", " }}</span>
+        </div>
     </div>
     
     <div class="zutaten">
@@ -14,6 +18,21 @@
                 <td class="zutat">{{ parts[1] }}</td>
             </tr>
         {% endfor %}
+
+        {% if page.weitere_zutaten %}
+            {% for weitere_zutaten in page.weitere_zutaten %}
+                <tr><td colspan="2">
+                    <h2 class="weitere_zutaten_header">{{ weitere_zutaten.name }}</h2>
+                </td></tr>
+                {% for zutat in weitere_zutaten.zutaten %}
+                    <tr>
+                        {% assign parts = zutat | split: "  " %}
+                        <td class="menge">{{ parts[0] }}</td>
+                        <td class="zutat">{{ parts[1] }}</td>
+                    </tr>
+                {% endfor %}
+            {% endfor %}
+        {% endif %}
         </table>
     </div>
     
