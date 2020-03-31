@@ -14,7 +14,6 @@ zutaten:
 - 2  Tomaten, getrocknete, klein gehackt (kann man auch weglassen)
 - "  italienische Kräuter"
 - "  Salz, (Pfeffer, Paprikapulver)"
-
 ---
 
 Alles vermengen und mit den Gewürzen abschmecken. Dazu passt jede Art von Brot, am besten Fladenbrot oder Ciabatta. 
