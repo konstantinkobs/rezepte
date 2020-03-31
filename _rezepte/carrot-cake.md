@@ -1,9 +1,8 @@
 ---
-title: Carrot Cake
+name: Carrot Cake
 tags:
 - Backen
 - Kuchen
-name: Carrot Cake
 link: https://www.allrecipes.com/recipe/7402/carrot-cake-iii/
 zutaten:
 - 4  Eier
