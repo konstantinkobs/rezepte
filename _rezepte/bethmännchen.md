@@ -5,14 +5,12 @@ tags:
 - Kleingebäck
 - Snack
 - Weihnachten
-
 zutaten:
 - 250g  Rohmarzipan
 - 80g  Puderzucker
 - 1 EL  Mehl
 - 1  Eigelb
 - 100g  Mandeln (ganz)
-
 ---
 
 Marzipan, Puderzucker und Eiweiß zu einem Teig verkneten, etwa eine halbe Stunde in den Kühlschrank stellen.
