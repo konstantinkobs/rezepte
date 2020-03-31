@@ -1,9 +1,10 @@
 ---
-name: Würziger Feta-Aufstrich
+title: Wuerziger Feta Aufstrich
 tags:
 - Aufstrich
 - Dip
 - Brot
+name: Würziger Feta-Aufstrich
 link: https://www.chefkoch.de/rezepte/1328531237652324/Wuerziger-Feta-Aufstrich.html
 zutaten:
 - 1  Feta-Käse (zerkrümelt)
