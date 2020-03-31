@@ -4,24 +4,27 @@ tags:
   - Backen
   - Kuchen
   - Gebäck
-zutaten:
-  - 4  Eier
-  - 1 1/4 Cups  Sonnenblumenöl
-  - 2 Cups  Zucker
-  - 2 TL  Vanille Extrakt (alternativ Vanillezucker)
-  - 2 Cups  Mehl
-  - 2 TL  Natron
-  - 2 TL  Backpulver
-  - 1/2 TL  Salz
-  - 2 TL  Zimt
-  - 6-8  mittelgroße Karotten (gerieben)
-  - eine große Handvoll  Walnüsse (zerstoßen)
 weitere_zutaten:
-  - name: Frosting
+  - name: Guss
     zutaten:
-      - ca. 120g  weiche Butter
-      - 1 Packung  Frischkäse
-      - '1 Schwung  Puderzucker (nicht zu viel, sonst wird es zu süß)'
-      - '  Walnüsse zum Dekorieren oder auch unterheben'
+      - 100g  Puderzucker
+      - 2 EL  Wasser oder Zitronensaft
 published: true
+zutaten:
+  - 80g  Zucker
+  - 100g  Butter oder Magarine
+  - 1 Tüte  Vanillezucker
+  - 1 Prise  Salz
+  - 2  Eier
+  - 250g  Mehl
+  - 1/2 Tüte  Backpulver
+  - 2-3 EL  Milch
+  - 250g  Äpfel
 ---
+Die Äpfel waschen, Kerngehäuse entfernen, schälen und in kleine Würfel schneiden. Eventuell ein wenig Zimt dazugeben.
+
+Das Fett schaumig rühren. Nach und nach Zucker, Vanillezucker, Salz und Eier unterrühren. Solange rühren, bis sich der Zucker aufgelöst hat. Mehl und Backpulver vermischen und mit der Milch abwechselnd in die Masse rühren.
+
+Zum Schluss die Apfelstücke unter den Teig heben. Mit 2 Esslöffeln Teighäufchen auf ein gefettetes Backblech geben.
+
+Bei 200°C 15-20 Minuten backen. Noch heiß mit der Puderzuckerglasur bestreichen.
