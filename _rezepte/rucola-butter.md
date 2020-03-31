@@ -1,18 +1,5 @@
 ---
 title: Rucola Butter
-tags:
-- Aufstrich
-- Brot
-name: Rucola Butter
-link: https://www.chefkoch.de/rezepte/1098361215843441/Rucola-Butter.html
-zutaten:
-- 2  Knoblauchzehen
-- 80g  Parmesan, gerieben
-- 100g  Rucola
-- 250g  Butter
-- 3 El  Zitronensaft
--"  Salz und Pfeffer" 
-
 ---
 
 Knoblauch pellen und fein hacken. Rucola von den Stängeln befreien, waschen, trocken schleudern und fein hacken.
