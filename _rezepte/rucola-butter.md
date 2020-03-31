@@ -18,4 +18,4 @@ Danach Knoblauch, Parmesan und Rucola unterrühren.
 
 Lecker zu Gegrilltem, mit Pellkartoffeln oder einfach auf frischem Brot.
 
-**Pro-Tipp:** Lässt sich prima einfrieren, so dass die Rucolabutter immer vorrätig ist.
+**Pro-Tipp:** Lässt sich prima einfrieren, sodass die Rucolabutter immer vorrätig ist.
