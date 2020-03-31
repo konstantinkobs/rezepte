@@ -21,3 +21,35 @@ description: Eine Sammlung von Rezepten, damit ich sie immer zur Verfügung habe
 baseurl: ''
 exclude:
 - excluded
+
+prose:
+  rooturl: '_rezepte'
+  siteurl: 'http://rezepte-la.ga/'
+  #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
+  #ignore:
+    #- index.md
+  metadata:
+    _rezepte:
+      - name: "name"
+        field:
+          element: "text"
+          label: "Titel des Rezepts"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Tags"
+          placeholder: "Füge Tags hinzu"
+          alterable: true
+      - name: "link"
+        field:
+          element: "text"
+          label: "Link zum Rezept"
+          placeholder: "Link"
+          help: "Dieses Feld musst du nur ausfüllen, wenn du das Rezept aus dem Internet hast."
+      - name: "zutaten"
+        field:
+          element: "multiselect"
+          label: "Zutaten"
+          help: "Bitte zuerst die Mengenangabe, dann ZWEI Leerzeichen, dann die Zutat nennen"
+          alterable: true
