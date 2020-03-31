@@ -1,5 +1,5 @@
 ---
-title: Rucola Butter
+name: Rucola Butter
 tags:
 - Aufstrich
 - Brot
