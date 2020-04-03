@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Moussé au chocolat
 zutaten:
   - '200g  Schokolade, dunkle (über 70% Kakaoanteil)'
