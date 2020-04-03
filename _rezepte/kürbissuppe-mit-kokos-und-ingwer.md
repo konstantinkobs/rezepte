@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Kürbissuppe mit Kokos und Ingwer
 tags:
   - Hauptspeise
