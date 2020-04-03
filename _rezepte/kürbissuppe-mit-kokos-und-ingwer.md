@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Kürbissuppe mit Kokos und Ingwer
 tags:
   - Hauptspeise
@@ -27,4 +27,3 @@ Durch den Ingwer und die Thaicurrypaste hat die Suppe einen ganz tollen Geschmac
 **Hinweis:**  Man kann auch Hokkaido Kürbis nehmen, das funktioniert genauso gut. 
 
 **Pro-Tipp:** Mit Balsamico-Creme und einem Klecks Schmand sowie gerösteten Kürbiskernen kann man die Suppe wunderbar garnieren.
-
