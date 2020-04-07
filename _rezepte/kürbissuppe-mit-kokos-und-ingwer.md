@@ -1,12 +1,12 @@
 ---
-published: true
 name: Kürbissuppe mit Kokos und Ingwer
 tags:
   - Hauptspeise
+  - Vorspeise
   - Suppe
-  - Herbst
-link: >-
-  https://www.chefkoch.de/rezepte/2233691357770062/Kuerbis-Karotten-Kokos-Ingwer-Suppe.html
+  - Saisonal
+  - Vegetarisch
+link: https://www.chefkoch.de/rezepte/2233691357770062/Kuerbis-Karotten-Kokos-Ingwer-Suppe.html
 zutaten:
   - '1  Zwiebel '
   - 1/2 - 1  Butternut Kürbis (je nach Größe)

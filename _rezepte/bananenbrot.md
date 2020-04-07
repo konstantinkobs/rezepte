@@ -1,9 +1,8 @@
 ---
-published: true
 name: Bananenbrot
 tags:
   - Kuchen
-  - Backen
+  - Brot
 zutaten:
   - 175g  Butter oder Margerine
   - 200g  Zucker

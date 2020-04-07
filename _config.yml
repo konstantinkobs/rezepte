@@ -1,6 +1,4 @@
----
 title: Rezepte
-timezone: UTC
 collections:
   posts:
     title: Posts
@@ -17,15 +15,17 @@ defaults:
     path: _rezepte
   values:
     layout: rezept
-description: Eine Sammlung von Rezepten, damit ich sie immer zur Verfügung habe.
+description: Eine Sammlung von Rezepten, damit wir sie immer zur Verfügung haben.
 baseurl: ''
 exclude:
 - excluded
-
+##############################
+### Prose.io configuration ###
+##############################
 prose:
   rooturl: '_rezepte'
   siteurl: 'http://rezepte-la.ga/'
-  #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  relativeLinks: 'https://rezepte-la.ga/links.jsonp'
   media: 'media'
   #ignore:
     #- index.md
@@ -40,7 +40,8 @@ prose:
           element: "multiselect"
           label: "Tags"
           placeholder: "Füge Tags hinzu"
-          alterable: true
+          options: "https://rezepte-la.ga/tags.jsonp"
+          alterable: false
       - name: "link"
         field:
           element: "text"
@@ -53,3 +54,7 @@ prose:
           label: "Zutaten"
           help: "Bitte zuerst die Mengenangabe, dann ZWEI Leerzeichen, dann die Zutat nennen"
           alterable: true
+      - name: "published"
+        field:
+          element: "hidden"
+          value: true

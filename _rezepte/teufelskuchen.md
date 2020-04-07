@@ -1,19 +1,16 @@
 ---
 name: Teufelskuchen
 tags:
-- Backen
-- Kuchen
+    - Kuchen
 zutaten:
-- 250g  Margerine
-- 4  Eier
-- 300g  Mehl
-- 1 Tl.  Natron
-- 375g  Zucker
-- 50g  Backkakao
-- 250g  saure Sahne
-- Schokoladenguss
-
-
+    - 250g  Margerine
+    - 4  Eier
+    - 300g  Mehl
+    - 1 Tl.  Natron
+    - 375g  Zucker
+    - 50g  Backkakao
+    - 250g  saure Sahne
+    - Schokoladenguss
 ---
 
 Margerine schmelzen. Dann alle Zutaten miteinander verrühren. Anschließend die saure Sahne unterheben. 

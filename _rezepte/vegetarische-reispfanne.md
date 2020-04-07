@@ -1,9 +1,8 @@
 ---
-title: Vegetarische Reispfanne
-tags:
-- Kochen
-- Hauptspeise
 name: Vegetarische Reispfanne
+tags:
+    - Hauptspeise
+    - Vegetarisch
 link: https://www.chefkoch.de/rezepte/508081146067703/Vegetarische-Reispfanne.html
 zutaten:
 - 1 Tasse  Basmatireis

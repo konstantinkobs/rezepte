@@ -1,10 +1,9 @@
 ---
-title: Flammkuchen
-tags:
-  - Backen
-  - Hauptspeise
-  - Herbst
 name: Flammkuchen
+tags:
+  - Hauptspeise
+  - Vegetarisch
+  - Fleisch
 link: 'https://www.chefkoch.de/rezepte/1107291216818673/Schneller-Flammkuchen.html'
 zutaten:
   - 2 EL  Öl

@@ -1,9 +1,7 @@
 ---
-published: true
 name: Cookies von Anne
 tags:
-  - Backen
-  - Kleingebäck
+  - Gebäck
   - Snack
 zutaten:
   - '225g  Butter '

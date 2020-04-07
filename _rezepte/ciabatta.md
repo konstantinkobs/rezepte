@@ -1,7 +1,6 @@
 ---
 title: Ciabatta
 tags:
-- Backen
 - Brot
 name: Ciabatta
 link: https://www.chefkoch.de/rezepte/731041175790782/Einfaches-Ciabatta.html

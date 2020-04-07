@@ -1,0 +1,10 @@
+---
+---
+callback([
+{% for rezept in site.rezepte | sort: name %}
+  {
+    "text": "{{rezept.name | replace:'"','\"'}}",
+    "href": "{{site.baseurl}}{{rezept.url}}"
+  } {% unless forloop.last %},{% endunless%}
+{% endfor %}
+])

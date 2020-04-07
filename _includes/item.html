@@ -3,12 +3,6 @@
     <a href="{{ rezept.url | relative_url }}">
         <div class="line">
             <span class="rezeptname">{{ rezept.name }}</span>
-            
-            <span class="tags">
-                {% for tag in rezept.tags %}
-                    <span class="tag">{{ tag }}</span>
-                {% endfor %}
-            </span>
         </div>
     </a>
 </div>

@@ -3,12 +3,18 @@ title: Rezepte
 layout: default
 ---
 
-<div class="header">
-    <h1 class="title">Rezepte Laga</h1>
+<div class="index-header">
+    <h1 class="index-title">Rezepte Laga</h1>
 </div>
 
-{% assign rezepte = site.rezepte | sort: "title" %}
+<div class="container-index">
+    {% assign rezepte = site.rezepte | sort: "name" %}
 
-{% for rezept in rezepte %}
-    {% include item.html rezept=rezept %}
-{% endfor %}
+    {% for tag in site.data.tags %}
+        {% assign tag_rezepte = rezepte | where: "tags", tag %}
+
+        {% if tag_rezepte.size > 0 %}
+            {% include tag-card.html rezepte=tag_rezepte tag=tag %}
+        {% endif %}
+    {% endfor %}
+</div>

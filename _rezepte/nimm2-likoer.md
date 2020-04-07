@@ -1,10 +1,7 @@
 ---
-published: false
-name: 'Nimm 2 Likör '
+name: Nimm 2 Likör
 tags:
   - Getränk
-  - Alkoholisches
-  - Sommer
 zutaten:
   - '1 Flasche  Korn '
   - 1 Tüte  Nimm 2 Bonbons

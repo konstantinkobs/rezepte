@@ -1,10 +1,9 @@
 ---
 name: Bethmännchen
 tags:
-  - Backen
-  - Kleingebäck
+  - Gebäck
   - Snack
-  - Weihnachten
+  - Saisonal
 zutaten:
   - 250g  Rohmarzipan
   - 80g  Puderzucker

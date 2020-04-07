@@ -1,8 +1,6 @@
 ---
 name: Apfelamerikaner
 tags:
-  - Backen
-  - Kuchen
   - Gebäck
 weitere_zutaten:
   - name: Guss

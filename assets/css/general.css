@@ -1,0 +1,46 @@
+:root {
+    --header-font: 'Sacramento', serif;
+    --main-font: 'Playfair Display', serif;
+    --secondary-font: 'Open Sans', sans-serif;
+
+    --primary-color: rgb(124, 15, 15);
+    --primary-color-darker: rgb(88, 11, 11);
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    font-family: var(--main-font);
+    font-size: 15px;
+
+    hyphens: auto;
+    -webkit-hyphens: auto;
+}
+
+#background {
+    position: fixed;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+
+    background-image: url("/assets/img/background.jpg");
+    background-size: cover;
+}
+
+/*****************/
+/* MEDIA QUERIES */
+/*****************/
+
+@media (min-width:400px) {
+    html,
+    body {
+        font-size: 20px;
+    }
+}

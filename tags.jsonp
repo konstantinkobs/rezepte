@@ -1,0 +1,11 @@
+---
+---
+callback([
+{% for tag in site.data.tags %}
+    {
+        "name": "{{ tag }}",
+        "value": "{{ tag }}"
+    }
+    {% unless forloop.last %},{% endunless%}
+{% endfor %}
+])

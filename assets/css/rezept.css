@@ -1,60 +1,23 @@
-:root {
-    --header-font: 'Sacramento', serif;
-    --main-font: 'Playfair Display', serif;
-    --secondary-font: 'Open Sans', sans-serif;
-
-    --primary-color: rgb(124, 15, 15);
-    --primary-color-darker: rgb(88, 11, 11);
-}
-
-*,
-*:before,
-*:after {
-    box-sizing: border-box;
-}
-
-html,
-body {
-    font-family: var(--main-font);
-    font-size: 20px;
-
-    hyphens: auto;
-    -webkit-hyphens: auto;
-}
-
-#background {
-    position: fixed;
-    z-index: -1;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-
-    background-image: url("/assets/img/background.jpg");
-    background-size: cover;
-}
-
-.container {
+.container-rezept {
     width: 100%;
     max-width: 1000px;
 
     background: white;
     border-radius: 5px;
     box-shadow: 0px 30px 15px -20px rgba(50, 50, 50, 0.3),
-                0px 50px 20px -40px rgba(50, 50, 50, 0.3),
-                0px 70px 25px -60px rgba(50, 50, 50, 0.3);
+        0px 50px 20px -40px rgba(50, 50, 50, 0.3),
+        0px 70px 25px -60px rgba(50, 50, 50, 0.3);
 
     margin: 30px auto;
     padding: 40px;
-}
 
-.container-rezept {
     display: grid;
-    grid-template-columns: auto;
+    grid-template-columns: 1fr;
     grid-template-rows: auto;
-    grid-template-areas: "header header"
-                         "anleitung zutaten"
-                         "footer footer";
+    grid-template-areas: "header"
+        "zutaten"
+        "anleitung"
+        "footer";
     gap: 10px;
 }
 
@@ -76,7 +39,7 @@ body {
     margin-left: -50px;
 
     box-shadow: 2px 3px 5px rgba(50, 50, 50, 0.4);
-    
+
     position: relative;
     font-family: var(--secondary-font);
     font-size: 80%;
@@ -95,11 +58,13 @@ body {
 
 .zutaten {
     grid-area: zutaten;
-    max-width: 350px;
-    padding: 10px 0;
+    max-width: 100%;
+    padding: 10px 0 30px 0;
 
     font-family: var(--secondary-font);
     font-size: 90%;
+
+    border-bottom: 1px solid #eee;
 }
 
 .zutaten table {
@@ -127,6 +92,7 @@ body {
 .anleitung {
     grid-area: anleitung;
     text-align: justify;
+    padding-top: 30px;
 }
 
 .footer {
@@ -138,6 +104,7 @@ body {
 }
 
 .quelle {
+    font-family: var(--secondary-font);
     text-decoration: none;
     color: #ccc;
     font-size: 75%;
@@ -171,29 +138,29 @@ body {
 }
 
 
+@media (min-width:400px) {
 
-@media (max-width:800px) {
-    .container-rezept {
-        grid-template-areas: "header"
-            "zutaten"
-            "anleitung"
-            "footer";
-    }
-
-    .zutaten {
-        max-width: 100%;
-        padding-bottom: 30px;
-        border-bottom: 1px solid #eee;
-    }
-
-    .anleitung {
-        padding-top: 30px;
+    html,
+    body {
+        font-size: 20px;
     }
 }
 
-@media (max-width:400px) {
-    html,
-    body {
-        font-size: 15px;
+@media (min-width:800px) {
+    .container-rezept {
+        grid-template-columns: auto auto;
+        grid-template-areas: "header header"
+            "anleitung zutaten"
+            "footer footer";
+    }
+
+    .zutaten {
+        max-width: 350px;
+        padding: 10px 0;
+        border-bottom: none;
+    }
+
+    .anleitung {
+        padding-top: 0;
     }
 }

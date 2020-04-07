@@ -1,14 +1,13 @@
 ---
-published: true
-name: Moussé au chocolat
+name: Mousse au Chocolat
+tags:
+  - Dessert
 zutaten:
   - '200g  Schokolade, dunkle (über 70% Kakaoanteil)'
   - 3  Eier
   - 200ml  Sahne
   - 40g  Zucker
   - 50g  Butter
-tags:
-  - Nachtisch
 ---
 Eier trennen, Eiweiß und Sahne seperat steif schlagen.
 

@@ -1,21 +1,19 @@
 ---
-title: Knoblauchbrot
-tags:
-- Backen
-- Brot
 name: Knoblauchbrot
+tags:
+    - Brot
 link: https://www.chefkoch.de/rezepte/2663951418215257/Selbstgebackenes-Knoblauchbrot.html
 zutaten:
-- 250 ml  warmes Wasser
-- 2 EL  Zucker
-- 1 TL  Trockenhefe
-- 2 TL  Salz + Salz zum Würzen
-- 1 EL  Olivenöl + 50 ml
-- 370 g  Mehl
-- 4  Knoblauchzehen
-- 5 Stiele  Petersilie
-- 4 Stiele  Thymian
-- 90 g  würziger Käse, z. B. Bergkäse
+    - 250 ml  warmes Wasser
+    - 2 EL  Zucker
+    - 1 TL  Trockenhefe
+    - 2 TL  Salz + Salz zum Würzen
+    - 1 EL  Olivenöl + 50 ml
+    - 370 g  Mehl
+    - 4  Knoblauchzehen
+    - 5 Stiele  Petersilie
+    - 4 Stiele  Thymian
+    - 90 g  würziger Käse, z. B. Bergkäse
 ---
 
 Warmes Wasser mit dem Zucker, der Trockenhefe und 2 EL Mehl verrühren. 15 Min. stehen lassen. Mehl und Salz mischen, die Hefemischung und 1 EL Öl dazu geben und 10 Min. zu einem glatten Teig verkneten. Eine Schüssel leicht ölen und den Teig darin abgedeckt 45 Min. bis 1 Stunde gehen lassen. Das Volumen soll sich verdoppeln.
