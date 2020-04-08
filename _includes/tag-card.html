@@ -5,7 +5,7 @@
 
     <div class="tag-card-list">
         {% for rezept in include.rezepte %}
-            {% include item.html rezept=rezept %}
+            <a class="item" href="{{ rezept.url | relative_url }}">{{ rezept.name }}</a>
         {% endfor %}
     </div>
 </div>
