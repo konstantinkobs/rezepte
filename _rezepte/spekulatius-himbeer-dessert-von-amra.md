@@ -1,6 +1,6 @@
 ---
 published: true
-name: Spekulatius Himbeer Dessert von Amra
+name: Spekulatius-Himbeer-Dessert von Amra
 tags:
   - Dessert
 link: >-
