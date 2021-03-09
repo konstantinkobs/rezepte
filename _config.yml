@@ -16,7 +16,7 @@ defaults:
   values:
     layout: rezept
 description: Eine Sammlung von Rezepten, damit wir sie immer zur Verfügung haben.
-baseurl: ''
+baseurl: 'rezepte'
 exclude:
 - excluded
 ##############################
@@ -24,8 +24,8 @@ exclude:
 ##############################
 prose:
   rooturl: '_rezepte'
-  siteurl: 'http://rezepte-la.ga/'
-  relativeLinks: 'https://rezepte-la.ga/links.jsonp'
+  siteurl: 'https://konstantinkobs.de/rezepte/'
+  relativeLinks: 'https://konstantinkobs.de/rezepte/links.jsonp'
   media: 'media'
   #ignore:
     #- index.md
@@ -40,7 +40,7 @@ prose:
           element: "multiselect"
           label: "Tags"
           placeholder: "Füge Tags hinzu"
-          options: "https://rezepte-la.ga/tags.jsonp"
+          options: "https://konstantinkobs.de/rezepte/tags.jsonp"
           alterable: false
       - name: "link"
         field:
