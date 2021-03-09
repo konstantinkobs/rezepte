@@ -4,7 +4,7 @@ layout: default
 ---
 
 <div class="index-header">
-    <h1 class="index-title">Rezepte Laga</h1>
+    <h1 class="index-title">Rezepte-Lager</h1>
 
     <div id="searchbar">
         <input type="text" placeholder="Wer suchet der findet" id="search">
@@ -30,7 +30,7 @@ layout: default
 
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@5.1.0/dist/fuse.min.js"></script>
-<script src="/rezepte.js"></script>
+<script src="rezepte.js"></script>
 
 <script>
     const suche = document.getElementById("search");
