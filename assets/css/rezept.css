@@ -101,13 +101,15 @@
     padding: 50px 10px;
 
     text-align: center;
-}
-
-.quelle {
+    
     font-family: var(--secondary-font);
     text-decoration: none;
     color: #ccc;
     font-size: 75%;
+}
+
+.footer a {
+    color: inherit;
 }
 
 .rezeptname {

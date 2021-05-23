@@ -41,8 +41,14 @@
     </div>
 
     <div class="footer">
+        {% if page.info %}
+            {{ page.info }}
+        {% endif %}
+        {% if page.info and page.link %}
+            —
+        {% endif %}
         {% if page.link %}
-            <a class="quelle" href="{{ page.link }}">Link zum Ursprungsrezept</a>
+            <a href="{{ page.link }}">Link zum Ursprungsrezept</a>
         {% endif %}
     </div>
 </div>

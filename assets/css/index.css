@@ -12,7 +12,8 @@
 }
 
 .index-title {
-    color: black;
+    color: white;
+    text-shadow: 0px 2px 7px rgba(0,0,0,0.5);
     font-family: var(--header-font);
     text-align: center;
     font-size: 400%;

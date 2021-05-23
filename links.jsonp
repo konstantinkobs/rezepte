@@ -1,7 +1,7 @@
 ---
 ---
 callback([
-{% for rezept in site.rezepte | sort: name %}
+{% for rezept in site.rezepte %}
   {
     "text": "{{rezept.name | replace:'"','\"'}}",
     "href": "{{site.baseurl}}{{rezept.url}}"

@@ -16,7 +16,7 @@ defaults:
   values:
     layout: rezept
 description: Eine Sammlung von Rezepten, damit wir sie immer zur Verfügung haben.
-baseurl: 'rezepte'
+baseurl: '/rezepte'
 exclude:
 - excluded
 ##############################

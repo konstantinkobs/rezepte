@@ -30,7 +30,7 @@ body {
     right: 0;
     bottom: 0;
 
-    background-image: url("/{{ site.baseurl }}/assets/img/background.jpg");
+    background-image: url("../img/background.jpg");
     background-size: cover;
 }
 
