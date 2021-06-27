@@ -13,9 +13,9 @@ zutaten:
 weitere_zutaten:
   - name: Belag
     zutaten:
-      - '2  Zwiebeln, in halbe Ringe dünn geschnitten'
+      - '1  Zwiebel, in halbe Ringe dünn geschnitten'
       - 100 g  Speckwürfel
-      - 1 Becher  Schmand
+      - 1/2 Becher  Schmand
       - '  Pfeffer und Salz'
       - '  Schnittlauchröllchen (optional)'
 published: true
