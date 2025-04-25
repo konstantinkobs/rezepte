@@ -7,7 +7,7 @@ layout: default
     <h1 class="index-title">Rezepte-Lager</h1>
 
     <div id="searchbar">
-        <input type="text" placeholder="Wer suchet der findet" id="search">
+        <input type="text" placeholder="Wer suchet, der findet!" id="search">
         <ul id="searchresults"></ul>
     </div>
 </div>

@@ -5,17 +5,17 @@ tags:
   - Snack
   - Saisonal
 zutaten:
-  - 250g  Rohmarzipan
-  - 80g  Puderzucker
-  - 1 EL  Mehl
-  - 1  Eigelb
+  - 250g  Marzipanrohmasse
+  - 60g  Puderzucker
+  - 10 g  Mehl
+  - 1  Ei
   - 100g  Mandeln (ganz)
 published: true
 ---
 
 Marzipan, Puderzucker und Eiweiß zu einem Teig verkneten, etwa eine halbe Stunde in den Kühlschrank stellen.
-Danach kleine Kugeln formen, mit Eigelb bestreichen und jede Kugel mit 3 abgezogenen Mandeln bestecken.
+Danach mit zwei Teelöffeln Teig abstechen und kleine Kugeln formen, mit Eigelb bestreichen und jede Kugel mit abgezogenen Mandeln bestecken.
 
 Ergibt ca. 30 Stück.
 
-Bei 150°C ca. 35 min im Ofen backen.
+Bei 175°C ca. 15 Minuten im Ofen bei Ober-Unter-Hitze backen.
