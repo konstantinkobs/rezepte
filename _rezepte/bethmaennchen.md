@@ -18,4 +18,4 @@ Danach mit zwei Teelöffeln Teig abstechen und kleine Kugeln formen, mit Eigelb 
 
 Ergibt ca. 30 Stück.
 
-Bei 175°C ca. 15 Minuten im Ofen bei Ober-Unter-Hitze backen.
+Bei 175°C ca. 15 Minuten im Ofen bei Ober-/Unterhitze backen.

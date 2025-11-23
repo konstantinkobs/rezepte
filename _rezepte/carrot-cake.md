@@ -5,23 +5,24 @@ tags:
 link: https://www.allrecipes.com/recipe/7402/carrot-cake-iii/
 zutaten:
   - 4  Eier
-  - 1 1/4 Cups  Sonnenblumenöl
-  - 2 Cups  Zucker
+  - 230g  Sonnenblumenöl
+  - 400g  Zucker
   - 2 TL  Vanille Extrakt (alternativ Vanillezucker)
-  - 2 Cups  Mehl
+  - 250g  Mehl
   - 2 TL  Natron
   - 2 TL  Backpulver
   - 1/2 TL  Salz
   - 2 TL  Zimt
-  - 6-8  mittelgroße Karotten (gerieben)
-  - eine große Handvoll  Walnüsse (zerstoßen)
+  - 4–5  Karotten (gerieben)
+  - 100g  Walnüsse (zerstoßen)
 weitere_zutaten:
 - name: Frosting
   zutaten:
-    - ca. 120g  weiche Butter
-    - 1 Packung  Frischkäse
-    - 1 Schwung  Puderzucker (nicht zu viel, sonst wird es zu süß)
-    - "  Walnüsse zum Dekorieren oder auch unterheben"
+    - 100g  weiche Butter
+    - 300g  Frischkäse
+    - 350g  Puderzucker
+    - 1 TL  Vanille Extrakt
+    - 100g  Walnüsse zum Dekorieren oder auch unterheben
 ---
 
 Ofen auf 175°C vorheizen. Rechteckige und etwas höhere Form fetten und mehlen. 
