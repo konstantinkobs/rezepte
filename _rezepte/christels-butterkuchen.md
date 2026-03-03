@@ -22,5 +22,5 @@ weitere_zutaten:
 Die Zutaten für den Teig verrühren und auf ein mit Backpapier ausgelegtes Backblech geben.
 Den Teig für 15 Minuten bei 175°C Umluft backen.
 
-Die Zutaten für den Belag mischen.
-Sobald der Boden fertig ist, diesen schnell auf dem Ofen nehmen, den Belag darauf verstreichen und alles nochmal für 10 Minuten in den Ofen schieben.
+Für den Belag, die Butter schmelzen (geht in der Mikrowelle oder im Topf) und die restlichen Zutaten unterrühren.
+Sobald der Boden fertig ist, diesen schnell auf dem Ofen nehmen, die Belagmasse darauf verstreichen und alles nochmal für 10 Minuten in den Ofen schieben.
